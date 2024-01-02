@@ -1122,6 +1122,18 @@
 			"value" : "FALSE"
 		},
 		{
+			"name" : "VS2022_ASAN_DISABLE_VECTOR_ANNOTATION",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Disable vector annotation for VS2022 ASan?"
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
+		},
+		{
 			"name" : "mprpc_BINARY_DIR",
 			"properties" : 
 			[
