@@ -74,17 +74,17 @@ google/protobuf/service.h
 string
 -
 
-/home/tony/projects/mprpc/example/caller/callfriendservice.cc
+/home/ty/mprpc/example/caller/callfriendservice.cc
 iostream
 -
 mprpcapplication.h
-/home/tony/projects/mprpc/example/caller/mprpcapplication.h
+/home/ty/mprpc/example/caller/mprpcapplication.h
 friend.pb.h
-/home/tony/projects/mprpc/example/caller/friend.pb.h
+/home/ty/mprpc/example/caller/friend.pb.h
 
-/home/tony/projects/mprpc/example/friend.pb.cc
+/home/ty/mprpc/example/friend.pb.cc
 friend.pb.h
-/home/tony/projects/mprpc/example/friend.pb.h
+/home/ty/mprpc/example/friend.pb.h
 algorithm
 -
 google/protobuf/io/coded_stream.h
@@ -106,7 +106,7 @@ google/protobuf/port_def.inc
 google/protobuf/port_undef.inc
 -
 
-/home/tony/projects/mprpc/example/friend.pb.h
+/home/ty/mprpc/example/friend.pb.h
 limits
 -
 string

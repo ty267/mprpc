@@ -4,14 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/tony/projects/mprpc/src/logger.cc" "/home/tony/projects/mprpc/build/src/CMakeFiles/mprpc.dir/logger.cc.o"
-  "/home/tony/projects/mprpc/src/mprpcapplication.cc" "/home/tony/projects/mprpc/build/src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o"
-  "/home/tony/projects/mprpc/src/mprpcchannel.cc" "/home/tony/projects/mprpc/build/src/CMakeFiles/mprpc.dir/mprpcchannel.cc.o"
-  "/home/tony/projects/mprpc/src/mprpcconfig.cc" "/home/tony/projects/mprpc/build/src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o"
-  "/home/tony/projects/mprpc/src/mprpccontroller.cc" "/home/tony/projects/mprpc/build/src/CMakeFiles/mprpc.dir/mprpccontroller.cc.o"
-  "/home/tony/projects/mprpc/src/rpcheader.pb.cc" "/home/tony/projects/mprpc/build/src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o"
-  "/home/tony/projects/mprpc/src/rpcprovider.cc" "/home/tony/projects/mprpc/build/src/CMakeFiles/mprpc.dir/rpcprovider.cc.o"
-  "/home/tony/projects/mprpc/src/zookeeperutil.cc" "/home/tony/projects/mprpc/build/src/CMakeFiles/mprpc.dir/zookeeperutil.cc.o"
+  "/home/ty/mprpc/src/logger.cc" "/home/ty/mprpc/build/src/CMakeFiles/mprpc.dir/logger.cc.o"
+  "/home/ty/mprpc/src/mprpcapplication.cc" "/home/ty/mprpc/build/src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o"
+  "/home/ty/mprpc/src/mprpcchannel.cc" "/home/ty/mprpc/build/src/CMakeFiles/mprpc.dir/mprpcchannel.cc.o"
+  "/home/ty/mprpc/src/mprpcconfig.cc" "/home/ty/mprpc/build/src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o"
+  "/home/ty/mprpc/src/mprpccontroller.cc" "/home/ty/mprpc/build/src/CMakeFiles/mprpc.dir/mprpccontroller.cc.o"
+  "/home/ty/mprpc/src/rpcheader.pb.cc" "/home/ty/mprpc/build/src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o"
+  "/home/ty/mprpc/src/rpcprovider.cc" "/home/ty/mprpc/build/src/CMakeFiles/mprpc.dir/rpcprovider.cc.o"
+  "/home/ty/mprpc/src/zookeeperutil.cc" "/home/ty/mprpc/build/src/CMakeFiles/mprpc.dir/zookeeperutil.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

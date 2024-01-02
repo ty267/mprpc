@@ -1,4 +1,4 @@
-# Install script for directory: /home/tony/projects/mprpc/src
+# Install script for directory: /home/ty/mprpc/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

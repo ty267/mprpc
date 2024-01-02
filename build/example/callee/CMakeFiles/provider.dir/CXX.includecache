@@ -110,25 +110,25 @@ google/protobuf/descriptor.h
 unordered_map
 -
 
-/home/tony/projects/mprpc/example/callee/friendservice.cc
+/home/ty/mprpc/example/callee/friendservice.cc
 iostream
 -
 string
 -
 friend.pb.h
-/home/tony/projects/mprpc/example/callee/friend.pb.h
+/home/ty/mprpc/example/callee/friend.pb.h
 mprpcapplication.h
-/home/tony/projects/mprpc/example/callee/mprpcapplication.h
+/home/ty/mprpc/example/callee/mprpcapplication.h
 rpcprovider.h
-/home/tony/projects/mprpc/example/callee/rpcprovider.h
+/home/ty/mprpc/example/callee/rpcprovider.h
 vector
 -
 logger.h
-/home/tony/projects/mprpc/example/callee/logger.h
+/home/ty/mprpc/example/callee/logger.h
 
-/home/tony/projects/mprpc/example/friend.pb.cc
+/home/ty/mprpc/example/friend.pb.cc
 friend.pb.h
-/home/tony/projects/mprpc/example/friend.pb.h
+/home/ty/mprpc/example/friend.pb.h
 algorithm
 -
 google/protobuf/io/coded_stream.h
@@ -150,7 +150,7 @@ google/protobuf/port_def.inc
 google/protobuf/port_undef.inc
 -
 
-/home/tony/projects/mprpc/example/friend.pb.h
+/home/ty/mprpc/example/friend.pb.h
 limits
 -
 string

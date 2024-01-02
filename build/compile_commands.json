@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/ty/mprpc/build/src",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/ty/mprpc/src/mprpcapplication.cc",
+  "file": "/home/ty/mprpc/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/src",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/ty/mprpc/src/mprpcconfig.cc",
+  "file": "/home/ty/mprpc/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/src",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/ty/mprpc/src/rpcheader.pb.cc",
+  "file": "/home/ty/mprpc/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/src",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/ty/mprpc/src/rpcprovider.cc",
+  "file": "/home/ty/mprpc/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/src",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/ty/mprpc/src/mprpcchannel.cc",
+  "file": "/home/ty/mprpc/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/src",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/ty/mprpc/src/mprpccontroller.cc",
+  "file": "/home/ty/mprpc/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/src",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/ty/mprpc/src/logger.cc",
+  "file": "/home/ty/mprpc/src/logger.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/src",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/ty/mprpc/src/zookeeperutil.cc",
+  "file": "/home/ty/mprpc/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/example/callee",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/ty/mprpc/example/callee/friendservice.cc",
+  "file": "/home/ty/mprpc/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/example/callee",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/ty/mprpc/example/friend.pb.cc",
+  "file": "/home/ty/mprpc/example/friend.pb.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/example/caller",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/ty/mprpc/example/caller/callfriendservice.cc",
+  "file": "/home/ty/mprpc/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/ty/mprpc/build/example/caller",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/ty/mprpc/src/include -I/home/ty/mprpc/example  -g   -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/ty/mprpc/example/friend.pb.cc",
+  "file": "/home/ty/mprpc/example/friend.pb.cc"
+}
+]
